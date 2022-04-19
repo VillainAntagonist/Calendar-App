@@ -8,3 +8,4 @@
 | Guest    | 123      |
 | Danyl    | 123789   |
  | admin    | 987321   |
+ #### Appointments, which you made for another user, will be shown on that user's account.
